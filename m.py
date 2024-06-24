@@ -18,10 +18,10 @@ logger.setLevel(logging.INFO)
 logger.addHandler(log_handler)
 
 # Insert your Telegram bot token here (secure this in real-world applications)
-bot = telebot.TeleBot('6305715999:AAFuaxgnK-_MQhRT3UOVzYWEGVBjoYHNzbs')
+bot = telebot.TeleBot('6971681818:AAE2EjwaCTQe8eDtHlfH-G5tPLv8FQQiw8I')
 
 # Admin user IDs
-admin_id = ["548699498"]
+admin_id = ["5570950118"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
